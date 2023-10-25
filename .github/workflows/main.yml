@@ -25,6 +25,6 @@ jobs:
 
       - name: Run Python Script
         env:
-          MY_SECRET: ${{ secrets.MY_SECRET }}
+          MY_SECRET: ${{ secrets.optus }}
         run: python src/script.py
 
