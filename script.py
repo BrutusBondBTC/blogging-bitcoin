@@ -1,4 +1,4 @@
 import os
 
-my_secret = os.environ['MY_SECRET']
-print(f"The secret is: {my_secret}")
+my_secret = os.environ['optus']
+print(f"The secret is: {oputus}")
